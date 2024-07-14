@@ -1,9 +1,6 @@
-![GitHub stars](https://img.shields.io/github/stars/viettiennguyen029/SwiftUI_Login?style=social)
-![GitHub forks](https://img.shields.io/github/forks/viettiennguyen029/SwiftUI_Login?style=social)
-![GitHub issues](https://img.shields.io/github/issues/viettiennguyen029/SwiftUI_Login?style=social)
 
 # SwiftUI_Login
-Funny project to getting started with Swift UI. Made with ❤️
+Login Screen for all potential apps.
 
 ## App Design
 
